@@ -24,13 +24,13 @@
   padding-top: 200px;
   padding-bottom: 200px;
 
-  width: 646px;
+  width: 696px;
 }
 
 .hero__title {
   display: block;
   margin-top: 0;
-  margin-bottom: 37px;
+  margin-bottom: 30px;
 
   color: var(--title-text-color);
 
@@ -243,8 +243,8 @@
   display: block;
   width: 44px;
   height: 44px;
-  border: 1px solid #afb1b8;
-  background-color: rgba(255, 255, 255, 0.1);
+  /* border: 1px solid #afb1b8; */
+  background-color: var(--accent-color);
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
